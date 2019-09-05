@@ -1,4 +1,4 @@
-module github.com/jafossum/auth0-jwt-quickstart/server
+module github.com/jafossum/go-auth0-jwt-quickstart
 
 go 1.13
 
